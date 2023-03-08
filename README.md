@@ -2,10 +2,9 @@
 running google quic on ns3  
 This repo depends on quiche library.   
 The quiche libarary can be got here: https://github.com/bilibili/quiche  
-I make some minor changes on CmakeList.txt to get shared library.  
-I upload the source code of quiche library on BaiduYunPan.  
-url: https://pan.baidu.com/s/1F4LTfXn5KHR1LcNa5yXkkA   
-auth code: 2jhd   
+But, SoonyangZhang makes some minor changes on CmakeList.txt to get shared library.  
+url: https://github.com/SoonyangZhang/quic-on-ns3/releases/tag/quiche
+  
 # Build quiche   
 ## Prerequisite  
 ```
